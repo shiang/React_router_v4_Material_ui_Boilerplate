@@ -7,10 +7,10 @@ const styles = {
   textAlign: "center"
 };
 
-const App = () => (
+const Root = () => (
   <div style={styles}>
     <Routes />
   </div>
 );
 
-render(<App />, document.getElementById("root"));
+render(<Root />, document.getElementById("root"));
