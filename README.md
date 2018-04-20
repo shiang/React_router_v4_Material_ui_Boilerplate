@@ -1,2 +1,0 @@
-# React_router_v4_Material_ui_Boilerplate
-Created with CodeSandbox
